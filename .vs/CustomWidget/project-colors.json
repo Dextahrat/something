@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be8ed98b-d017-47ab-a6af-fdb147ba6acc": {
+      "ProjectGuid": "be8ed98b-d017-47ab-a6af-fdb147ba6acc",
+      "DisplayName": "CustomWidget",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

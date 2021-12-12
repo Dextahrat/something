@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWidget", "CustomWidget\CustomWidget.csproj", "{BE8ED98B-D017-47AB-A6AF-FDB147BA6ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8ED98B-D017-47AB-A6AF-FDB147BA6ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8ED98B-D017-47AB-A6AF-FDB147BA6ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8ED98B-D017-47AB-A6AF-FDB147BA6ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8ED98B-D017-47AB-A6AF-FDB147BA6ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56BE7EF-D984-49A6-9395-3DD6F6D1A5FD}
+	EndGlobalSection
+EndGlobal

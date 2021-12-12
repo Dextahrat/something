@@ -1,0 +1,16 @@
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\CustomWidget.exe.config
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\CustomWidget.exe
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\CustomWidget.pdb
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\Dapplo.Windows.Common.dll
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\Dapplo.Windows.Shell32.dll
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\Dapplo.Windows.Common.xml
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\bin\Debug\Dapplo.Windows.Shell32.xml
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.csproj.AssemblyReference.cache
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.csproj.SuggestedBindingRedirects.cache
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.Form1.resources
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.Properties.Resources.resources
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.csproj.GenerateResource.cache
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.csproj.CoreCompileInputs.cache
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.csproj.CopyComplete
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.exe
+C:\Users\dexta\source\repos\CustomWidget\CustomWidget\obj\Debug\CustomWidget.pdb
